@@ -1,0 +1,746 @@
+[
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_sel_picsel_toolbar_back.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_sel_picsel_toolbar_back.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\round_spinner_fade.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\round_spinner_fade.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_mute_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\drawable\\rc_voip_mute_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_list_divider_style.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_list_divider_style.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_aaaaaa.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\bg_white_aaaaaa.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\de_add_friend_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\de_add_friend_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_switch_btn.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\rc_switch_btn.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\_cb_protocol.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\_cb_protocol.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_paytype_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\dialog_paytype_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\main_activity_add.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\main_activity_add.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bqmm_bg_chat_time_tag.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Sticker\\unspecified\\res\\drawable\\bqmm_bg_chat_time_tag.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_an_voice_sent.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_an_voice_sent.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_star_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ic_star_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bqmm_point_selected.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Sticker\\unspecified\\res\\drawable\\bqmm_point_selected.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_corner_single_check_style.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_corner_single_check_style.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_submit_comment.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_submit_comment.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_unbind.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\shape_unbind.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_checked.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\selector_checked.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_list_item_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\btn_list_item_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_click_item_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\shape_click_item_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bqmm_shortcut_emoji_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Sticker\\unspecified\\res\\drawable\\bqmm_shortcut_emoji_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_speaker_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\drawable\\rc_voip_speaker_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_anim_speech_end.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Recognizer\\unspecified\\res\\drawable\\rc_anim_speech_end.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rs_select_btn_green.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\rs_select_btn_green.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_no_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ic_no_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_emoji_grid_item_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_emoji_grid_item_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_sel_picsel_toolbar_send.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_sel_picsel_toolbar_send.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_voice.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_btn_voice.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bqmm_selector_tab_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Sticker\\unspecified\\res\\drawable\\bqmm_selector_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_vedio_answer_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\drawable\\rc_voip_vedio_answer_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_selector_grid_camera_mask.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_selector_grid_camera_mask.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_menu_text_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_menu_text_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_sp_grid_mask.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_sp_grid_mask.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\select_tab_contact_list.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\select_tab_contact_list.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_menu_keyboard_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_menu_keyboard_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_an_voice_receive.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_an_voice_receive.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ext_plugin_image_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ext_plugin_image_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_normal_item_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\shape_normal_item_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bqmm_pic_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Sticker\\unspecified\\res\\drawable\\bqmm_pic_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_corner_popup_dialog_style.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_corner_popup_dialog_style.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cursor.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\selector_cursor.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_menu_background_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_menu_background_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_selector_title_back_press.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_selector_title_back_press.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\_bg_white_round_stroke.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\_bg_white_round_stroke.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_plugin_toggle_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_plugin_toggle_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\select_tab_chat.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\select_tab_chat.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_click_round_btn_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\shape_click_round_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_default_avatar.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\shape_default_avatar.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_anim_speech_start.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Recognizer\\unspecified\\res\\drawable\\rc_anim_speech_start.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_contact_detail_activity_corner_style.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\contactcard\\unspecified\\res\\drawable\\rc_contact_detail_activity_corner_style.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\_bg_gray_round.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\_bg_gray_round.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_back.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\selector_btn_back.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_public_service_enter_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_btn_public_service_enter_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_progress_sending_style.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_progress_sending_style.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_emotion_toggle_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_emotion_toggle_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edit_text_white.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\bg_edit_text_white.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_round_btn.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\selector_round_btn.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\ksw_md_thumb.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\ksw_md_thumb.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\_bg_bribery_open.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\_bg_bribery_open.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_start_chat.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\contact_start_chat.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_back_drawable.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\ios_back_drawable.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_recognizer_voice_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Recognizer\\unspecified\\res\\drawable\\rc_recognizer_voice_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_progress_round.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\rc_progress_round.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bqmm_point_normal.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Sticker\\unspecified\\res\\drawable\\bqmm_point_normal.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\de_pic_checkbox.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\de_pic_checkbox.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voice_input_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_voice_input_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_btn.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\selector_common_btn.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_headtitle.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\selector_btn_headtitle.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_sidebar_background.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\rp_sidebar_background.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_notification_connecting_animated.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_notification_connecting_animated.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_pb_file_download_progress.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_pb_file_download_progress.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_send.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_btn_send.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_back_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_back_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_hongbao.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\selector_hongbao.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_checkbox.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\drawable\\rc_voip_checkbox.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_normal_round_btn_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\shape_normal_round_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_ratingbar.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_ratingbar.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_send_toggle_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_send_toggle_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_location.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ic_location.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_item_top_list_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_item_top_list_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_top.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\selector_btn_top.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_background.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_input.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_btn_input.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_admin_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_admin_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ac_btn_file_download_open_button.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ac_btn_file_download_open_button.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_group_dialog_ok_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_group_dialog_ok_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\main_activity_contact_more.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\main_activity_contact_more.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\_bg_red_round.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\_bg_red_round.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_public_service_unfollow_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_btn_public_service_unfollow_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_group_dialog_cancel_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_group_dialog_cancel_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rs_select_btn_gray.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\rs_select_btn_gray.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_float_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\drawable\\rc_voip_float_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rs_select_btn_red.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\rs_select_btn_red.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\appitem_del_btn.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\appitem_del_btn.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_group_checkbox_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_group_checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_keyboard_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_keyboard_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_forget_pwd.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\selector_forget_pwd.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\de_customer_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\de_customer_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_code_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\shape_code_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ed_public_service_search_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ed_public_service_search_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_bg_img_mic.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Recognizer\\unspecified\\res\\drawable\\rc_bg_img_mic.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\selector_item_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_corner_voice_style.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_corner_voice_style.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\_progress_medium_holo.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\_progress_medium_holo.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\select_tab_me.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\select_tab_me.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_read_receipt_request_button.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_read_receipt_request_button.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\selector_item.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_contact_plugin_icon.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\contactcard\\unspecified\\res\\drawable\\rc_contact_plugin_icon.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gray_round.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\bg_gray_round.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\open_rp_anim.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\open_rp_anim.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\_bg_red_click_round.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\_bg_red_click_round.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_files_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ic_files_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bqmm_chatfrom_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Sticker\\unspecified\\res\\drawable\\bqmm_chatfrom_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_phone_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ic_phone_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_corner_location_style.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_corner_location_style.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_bg_sidebar.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_bg_sidebar.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_bg_menu.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_bg_menu.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\bqmm_chatto_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Sticker\\unspecified\\res\\drawable\\bqmm_chatto_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_bg_speech_tv_bottom.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Recognizer\\unspecified\\res\\drawable\\rc_bg_speech_tv_bottom.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ext_plugin_location_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ext_plugin_location_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_bg_item.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_bg_item.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_video_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\drawable\\rc_ic_video_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\select_tab_find.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\select_tab_find.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_leave_message_btn.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_leave_message_btn.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_white_bg_shape.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_white_bg_shape.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_item_list_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_item_list_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\_common_progress_bg.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\_common_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_evaluate_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_evaluate_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_edit_text_background_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_edit_text_background_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_audio_answer_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\drawable\\rc_voip_audio_answer_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_bg_mentionlist_item.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_bg_mentionlist_item.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_start_video.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\contact_start_video.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_round_white.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\shape_round_white.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voice_toggle_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_voice_toggle_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_corner_style.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_corner_style.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rs_select_btn_blue.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\rs_select_btn_blue.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_hangup_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\drawable\\rc_voip_hangup_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_group_ok_text_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_cs_group_ok_text_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\_bg_white_round.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\drawable\\_bg_white_round.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\de_pic_chebox_photo.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable\\de_pic_chebox_photo.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_yes_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\IMKit\\unspecified\\res\\drawable\\rc_ic_yes_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_camera_selector.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\drawable\\rc_voip_camera_selector.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    }
+]

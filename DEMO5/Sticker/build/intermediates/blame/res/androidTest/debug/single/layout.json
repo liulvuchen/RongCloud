@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bqmm_message_view_left.xml",
+        "source": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\bundles\\debug\\res\\layout\\bqmm_message_view_left.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bqmm_message_view_right.xml",
+        "source": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\bundles\\debug\\res\\layout\\bqmm_message_view_right.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\item_emoji_message.xml",
+        "source": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\bundles\\debug\\res\\layout\\item_emoji_message.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bqmm_keyboard_tab.xml",
+        "source": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\bundles\\debug\\res\\layout\\bqmm_keyboard_tab.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bqmm_item_emoji.xml",
+        "source": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\bundles\\debug\\res\\layout\\bqmm_item_emoji.xml"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bqmm_item_face.xml",
+        "source": "E:\\DEMO\\DEMO5\\Sticker\\build\\intermediates\\bundles\\debug\\res\\layout\\bqmm_item_face.xml"
+    }
+]

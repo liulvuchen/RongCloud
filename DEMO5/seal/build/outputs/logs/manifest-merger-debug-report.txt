@@ -1,0 +1,1422 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:2:1-512:12
+	package
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.1] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [DEMO5:Recognizer:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Recognizer\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [DEMO5:contactcard:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\contactcard\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.4.1] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.1\AndroidManifest.xml:7:5-9:41
+MERGED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [DEMO5:CallLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallLib\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:7:9-38
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:6:9-35
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+		INJECTED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:9:5-81
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:12:5-81
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:10:5-67
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:13:5-67
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:11:5-81
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:13:5-75
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:18:5-75
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:15:5-68
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:22:5-68
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:16:5-85
+MERGED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:12:5-85
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:28:5-85
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:16:22-82
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:19:5-76
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:16:5-76
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:21:5-79
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:14:5-79
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.CAMERA
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:22:5-65
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:22:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:24:5-71
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:21:5-71
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:24:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:26:5-66
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:25:5-66
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:26:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:28:5-68
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:23:5-68
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:18:5-68
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:30:5-73
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:30:22-70
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:31:5-80
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:24:5-80
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:31:22-77
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:32:5-84
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:32:22-81
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:34:5-72
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:34:22-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:35:5-79
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:36:5-81
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:36:22-78
+permission#cn.rongcloud.im.permission.MIPUSH_RECEIVE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:39:5-41:47
+	android:protectionLevel
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:41:9-44
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:40:9-65
+uses-permission#cn.rongcloud.im.permission.MIPUSH_RECEIVE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:42:5-81
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:42:22-78
+permission#cn.rongcloud.im.permission.C2D_MESSAGE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:45:5-47:47
+	android:protectionLevel
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:47:9-44
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:46:9-62
+uses-permission#cn.rongcloud.im.permission.C2D_MESSAGE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:48:5-78
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:48:22-75
+application
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:51:5-509:19
+MERGED from [DEMO5:Recognizer:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Recognizer\unspecified\AndroidManifest.xml:11:5-14:19
+MERGED from [DEMO5:contactcard:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\contactcard\unspecified\AndroidManifest.xml:11:5-21:19
+MERGED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:11:5-45:19
+MERGED from [com.facebook.stetho:stetho:1.4.1] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.1\AndroidManifest.xml:11:5-20
+MERGED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:15:5-60:19
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:33:5-96:19
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:24:5-95:19
+MERGED from [DEMO5:CallLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallLib\unspecified\AndroidManifest.xml:11:5-12:19
+MERGED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:19:5-80:19
+MERGED from [com.google.android.gms:play-services:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:55:9-41
+	android:supportsRtl
+		ADDED from [DEMO5:Recognizer:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Recognizer\unspecified\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:53:9-35
+	android:icon
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:54:9-47
+	android:theme
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:56:9-39
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:52:9-28
+activity#cn.rongcloud.im.ui.activity.LoginActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:59:9-62:57
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:61:13-49
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:62:13-54
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:60:13-54
+activity#cn.rongcloud.im.ui.activity.MainActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:65:9-81:20
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:68:13-49
+	android:launchMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:67:13-44
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:70:13-64
+	android:configChanges
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:69:9-70
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:66:13-53
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:72:13-80:29
+action#android.intent.action.VIEW
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:73:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:74:17-76
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:74:27-73
+data
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:76:17-79:45
+	android:host
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:77:21-51
+	android:scheme
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:79:21-42
+	android:pathPrefix
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:78:21-55
+activity#cn.rongcloud.im.ui.activity.GroupListActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:82:9-84:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:83:13-58
+activity#cn.rongcloud.im.ui.activity.PrivateChatDetailActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:85:9-87:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:86:13-66
+activity#cn.rongcloud.im.ui.activity.RegisterActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:92:13-49
+	android:launchMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:90:13-57
+activity#cn.rongcloud.im.ui.activity.MyAccountActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:97:9-99:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:98:13-58
+activity#cn.rongcloud.im.ui.activity.NewMessageRemindActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:102:9-104:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:103:13-65
+activity#cn.rongcloud.im.ui.activity.DisturbActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:106:9-108:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:108:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:107:13-56
+activity#cn.rongcloud.im.ui.activity.MessageDisturbActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:109:9-72
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:109:19-69
+activity#cn.rongcloud.im.ui.activity.PrivacyActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:111:9-113:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:113:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:112:13-56
+activity#cn.rongcloud.im.ui.activity.AboutRongCloudActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:115:9-117:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:117:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:116:13-63
+activity#cn.rongcloud.im.ui.activity.UpdateLogActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:119:9-121:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:121:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:120:13-58
+activity#cn.rongcloud.im.ui.activity.FunctionIntroducedActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:123:9-125:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:125:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:124:13-67
+activity#cn.rongcloud.im.ui.activity.RongWebActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:128:9-130:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:130:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:129:13-56
+activity#cn.rongcloud.im.ui.activity.BlackListActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:132:9-134:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:134:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:133:13-58
+activity#cn.rongcloud.im.ui.activity.SearchFriendActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:137:9-139:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:139:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:138:13-61
+activity#cn.rongcloud.im.ui.activity.NewFriendListActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:141:9-143:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:143:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:142:13-62
+activity#cn.rongcloud.im.ui.activity.TotalGroupMemberActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:145:9-147:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:147:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:146:13-65
+activity#cn.rongcloud.im.ui.activity.PublicServiceActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:150:9-153:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:153:13-49
+	android:launchMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:152:13-44
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:151:13-62
+activity#cn.rongcloud.im.ui.activity.PublicServiceSearchActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:155:9-157:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:157:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:156:13-68
+activity#cn.rongcloud.im.ui.activity.SelectFriendsActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:160:9-162:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:162:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:161:13-62
+activity#cn.rongcloud.im.ui.activity.CreateGroupActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:163:9-165:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:165:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:164:13-60
+activity#cn.rongcloud.im.ui.activity.GroupDetailActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:166:9-168:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:168:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:167:13-60
+activity#cn.rongcloud.im.ui.activity.ReadReceiptDetailActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:169:9-171:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:171:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:170:13-66
+activity#cn.rongcloud.im.ui.activity.DiscussionDetailActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:173:9-175:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:175:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:174:13-65
+activity#cn.rongcloud.im.ui.activity.ForgetPasswordActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:177:9-179:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:179:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:178:13-63
+activity#cn.rongcloud.im.ui.activity.GroupNoticeActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:180:9-182:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:182:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:181:13-60
+activity#cn.rongcloud.im.ui.activity.PublicServiceInfoActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:185:9-205:20
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:187:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:186:13-66
+activity#cn.rongcloud.im.ui.activity.DoubleChatRoomActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:208:9-72
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:208:19-69
+activity#cn.rongcloud.im.ui.activity.ConversationActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:209:9-225:20
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:212:13-49
+	android:launchMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:211:13-43
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:213:13-67
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:210:13-61
+activity#cn.rongcloud.im.ui.activity.SubConversationListActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:227:9-241:20
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:230:13-49
+	android:launchMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:229:13-44
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:231:13-67
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:228:13-68
+activity#cn.rongcloud.im.ui.activity.ConversationListActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:244:9-258:20
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:247:13-49
+	android:launchMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:246:13-44
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:248:13-67
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:245:13-65
+activity#cn.rongcloud.im.ui.activity.SealSearchActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:259:9-262:67
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:261:13-49
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:262:13-65
+	android:configChanges
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:260:13-70
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:259:19-65
+activity#cn.rongcloud.im.ui.activity.SealSearchMoreFriendsActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:263:9-266:66
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:265:13-49
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:266:13-64
+	android:configChanges
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:264:13-70
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:263:19-76
+activity#cn.rongcloud.im.ui.activity.SealSearchMoreGroupActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:267:9-270:66
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:269:13-49
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:270:13-64
+	android:configChanges
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:268:13-70
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:267:19-74
+activity#cn.rongcloud.im.ui.activity.SealSearchMoreChattingRecordsActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:271:9-274:66
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:273:13-49
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:274:13-64
+	android:configChanges
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:272:13-70
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:271:19-84
+activity#cn.rongcloud.im.ui.activity.SealSearchChattingDetailActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:275:9-278:66
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:277:13-49
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:278:13-64
+	android:configChanges
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:276:13-70
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:275:19-79
+activity#cn.rongcloud.im.ui.activity.UpdateNameActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:279:9-281:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:281:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:280:13-59
+activity#cn.rongcloud.im.ui.activity.UpdatePasswordActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:282:9-284:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:284:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:283:13-63
+activity#cn.rongcloud.im.ui.activity.AccountSettingActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:285:9-287:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:287:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:286:13-63
+service#io.rong.imlib.ipc.RongService
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:289:9-291:38
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:31:9-34:38
+	android:process
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:291:13-35
+	android:exported
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:290:13-57
+service#io.rong.imlib.ReConnectService
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:292:9-66
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:35:9-37:39
+	android:exported
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:292:18-63
+receiver#io.rong.imlib.ConnectChangeReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:294:9-72
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:39:9-41:39
+	android:exported
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:294:19-69
+receiver#io.rong.imlib.HeartbeatReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:296:9-298:38
+MERGED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:42:9-44:38
+	android:process
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:298:13-35
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:297:13-59
+activity#io.rong.imkit.widget.provider.TakingPicturesActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:300:9-303:52
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:303:13-49
+	android:configChanges
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:302:13-63
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:301:13-80
+service#cn.rongcloud.im.server.UpdateService
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:305:9-57
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:305:18-54
+activity#cn.rongcloud.im.ui.activity.UserDetailActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:306:9-307:51
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:307:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:306:19-65
+activity#cn.rongcloud.im.ui.activity.SharedReceiverActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:308:9-316:20
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:310:13-49
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:309:13-63
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:311:13-315:29
+action#android.intent.action.SEND
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:312:17-69
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:312:25-66
+activity#cn.rongcloud.im.ui.activity.SplashActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:318:9-327:20
+	android:screenOrientation
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:320:13-49
+	android:windowSoftInputMode
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:322:13-54
+	android:theme
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:321:13-47
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:319:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:323:13-326:29
+action#android.intent.action.MAIN
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:324:17-69
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:324:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:325:17-77
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:325:27-74
+activity#cn.rongcloud.im.ui.activity.NoteInformationActivity
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:329:9-73
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:329:19-70
+receiver#cn.rongcloud.im.SealNotificationReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:331:9-340:20
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:333:13-36
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:332:13-53
+intent-filter#io.rong.push.intent.MESSAGE_ARRIVED+io.rong.push.intent.MESSAGE_CLICKED+io.rong.push.intent.MI_MESSAGE_ARRIVED+io.rong.push.intent.MI_MESSAGE_CLICKED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:334:13-339:29
+action#io.rong.push.intent.MESSAGE_ARRIVED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:335:17-78
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:335:25-75
+action#io.rong.push.intent.MI_MESSAGE_ARRIVED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:336:17-81
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:336:25-78
+action#io.rong.push.intent.MESSAGE_CLICKED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:337:17-78
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:337:25-75
+action#io.rong.push.intent.MI_MESSAGE_CLICKED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:338:17-81
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:338:25-78
+meta-data#InstallChannel
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:352:9-354:39
+	android:value
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:354:13-36
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:353:13-42
+meta-data#com.amap.api.v2.apikey
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:357:9-359:64
+	android:value
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:359:13-61
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:358:13-50
+meta-data#UMENG_APPKEY
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:362:9-364:56
+	android:value
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:364:13-53
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:363:13-40
+meta-data#UMENG_CHANNEL
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:365:9-367:44
+	android:value
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:367:13-41
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:366:13-41
+service#com.xiaomi.push.service.XMPushService
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:373:9-375:38
+	android:enabled
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:375:13-35
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:374:13-65
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:376:9-379:39
+	android:enabled
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:378:13-35
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:379:13-36
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:377:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:380:9-382:38
+	android:enabled
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:382:13-35
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:381:13-70
+service#com.xiaomi.push.service.XMJobService
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:385:9-389:72
+	android:enabled
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:387:13-35
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:388:13-37
+	android:permission
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:389:13-69
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:386:13-64
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:392:9-399:20
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:394:13-36
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:393:13-83
+intent-filter#android.intent.category.DEFAULT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:395:13-398:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:396:17-79
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:396:25-76
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:400:9-406:20
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:402:13-37
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:401:13-74
+intent-filter#com.xiaomi.push.PING_TIMER
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:403:13-405:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:404:17-69
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:404:25-66
+receiver#io.rong.push.platform.MiMessageReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:407:9-419:20
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:409:13-36
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:408:13-67
+intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:410:13-412:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:411:17-76
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:411:25-73
+intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:413:13-415:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:414:17-76
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:414:25-73
+intent-filter#com.xiaomi.mipush.ERROR
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:416:13-418:29
+action#com.xiaomi.mipush.ERROR
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:417:17-66
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:417:25-63
+receiver#com.huawei.android.pushagent.PushEventReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:423:9-438:20
+	android:process
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:425:13-45
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:424:13-74
+intent-filter#com.huawei.android.push.PLUGIN+com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL+com.huawei.intent.action.PUSH+com.huawei.intent.action.PUSH_ON
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:426:13-431:29
+action#com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:427:17-94
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:427:25-91
+action#com.huawei.intent.action.PUSH
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:428:17-72
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:428:25-69
+action#com.huawei.intent.action.PUSH_ON
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:429:17-75
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:429:25-72
+action#com.huawei.android.push.PLUGIN
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:430:17-73
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:430:25-70
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:432:13-437:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:433:17-78
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:433:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:434:17-80
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:434:25-77
+receiver#com.huawei.android.pushagent.PushBootReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:439:9-449:20
+	android:process
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:441:13-45
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:440:13-73
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+com.huawei.android.push.intent.REGISTER
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:442:13-445:29
+action#com.huawei.android.push.intent.REGISTER
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:443:17-82
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:443:25-79
+meta-data#CS_cloud_version
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:446:13-448:60
+	android:value
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:448:17-57
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:447:17-48
+receiver#io.rong.push.platform.HWReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:450:9-463:20
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:450:19-66
+intent-filter#com.huawei.android.push.intent.CLICK+com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION+com.huawei.android.push.plugin.RESPONSE+com.huawei.intent.action.PUSH_STATE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:451:13-462:29
+action#com.huawei.android.push.intent.REGISTRATION
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:453:17-86
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:453:25-83
+action#com.huawei.android.push.intent.RECEIVE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:455:17-81
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:455:25-78
+action#com.huawei.android.push.intent.CLICK
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:457:17-79
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:457:25-76
+action#com.huawei.intent.action.PUSH_STATE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:459:17-78
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:459:25-75
+action#com.huawei.android.push.plugin.RESPONSE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:461:17-82
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:461:25-79
+service#com.huawei.android.pushagent.PushService
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:465:9-467:56
+	android:process
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:467:13-45
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:466:13-68
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:471:9-480:20
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:473:13-36
+	android:permission
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:474:13-73
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:472:13-66
+intent-filter#cn.rongcloud.im+com.google.android.c2dm.intent.RECEIVE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:475:13-479:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:476:17-81
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:476:25-78
+category#cn.rongcloud.im
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:477:17-60
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:477:27-57
+service#io.rong.push.platform.RongGcmListenerService
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:482:9-488:19
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:484:13-37
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:483:13-72
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:485:13-487:29
+service#io.rong.push.platform.RongGCMInstanceIDListenerService
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:489:9-495:19
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:491:13-37
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:490:13-82
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:492:13-494:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:493:17-80
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:493:25-77
+provider#android.support.v4.content.FileProvider
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:500:9-508:20
+	android:authorities
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:502:13-63
+	android:grantUriPermissions
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:504:13-47
+	android:exported
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:503:13-37
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:501:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:505:13-507:56
+	android:resource
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:507:17-53
+	android:name
+		ADDED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:506:17-67
+activity#cn.rongcloud.contactcard.activities.ContactListActivity
+ADDED from [DEMO5:contactcard:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\contactcard\unspecified\AndroidManifest.xml:14:9-17:59
+	android:screenOrientation
+		ADDED from [DEMO5:contactcard:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\contactcard\unspecified\AndroidManifest.xml:16:13-49
+	android:windowSoftInputMode
+		ADDED from [DEMO5:contactcard:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\contactcard\unspecified\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from [DEMO5:contactcard:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\contactcard\unspecified\AndroidManifest.xml:15:13-83
+activity#cn.rongcloud.contactcard.activities.ContactDetailActivity
+ADDED from [DEMO5:contactcard:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\contactcard\unspecified\AndroidManifest.xml:18:9-20:59
+	android:theme
+		ADDED from [DEMO5:contactcard:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\contactcard\unspecified\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from [DEMO5:contactcard:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\contactcard\unspecified\AndroidManifest.xml:19:13-85
+activity#com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiPackageList
+ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:15:9-19:20
+	android:screenOrientation
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:17:13-49
+	android:theme
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:18:13-57
+	android:name
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:16:13-86
+activity#com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiPackageDetail
+ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:20:9-24:20
+	android:screenOrientation
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:22:13-49
+	android:theme
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:23:13-57
+	android:name
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:21:13-88
+activity#com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiPackageSetting
+ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:25:9-29:20
+	android:screenOrientation
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:27:13-49
+	android:theme
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:28:13-57
+	android:name
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:26:13-89
+activity#com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiDetail
+ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:30:9-34:20
+	android:screenOrientation
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:32:13-49
+	android:theme
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:33:13-57
+	android:name
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:31:13-81
+activity#com.melink.bqmmplugin.rc.bqmmsdk.ui.store.ServiceDeclaration
+ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:35:9-39:20
+	android:screenOrientation
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:37:13-49
+	android:theme
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:38:13-57
+	android:name
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:36:13-88
+activity#com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiPackageSort
+ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:40:9-44:20
+	android:screenOrientation
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:43:13-57
+	android:name
+		ADDED from [DEMO5:Sticker:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\Sticker\unspecified\AndroidManifest.xml:41:13-86
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:11:5-81
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:13:5-78
+MERGED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:13:22-75
+activity#io.rong.callkit.MultiVideoCallActivity
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:18:9-28:20
+	android:screenOrientation
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:21:13-49
+	android:launchMode
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:20:13-43
+	android:windowSoftInputMode
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:22:13-67
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:19:13-66
+intent-filter#android.intent.category.DEFAULT+io.rong.intent.action.voip.MULTIVIDEO
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:23:13-27:29
+action#io.rong.intent.action.voip.MULTIVIDEO
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:24:17-80
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:24:25-77
+activity#io.rong.callkit.SingleCallActivity
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:29:9-44:20
+	android:screenOrientation
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:32:13-49
+	android:launchMode
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:31:13-43
+	android:windowSoftInputMode
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:33:13-67
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:30:13-62
+intent-filter#android.intent.category.DEFAULT+io.rong.intent.action.voip.SINGLEVIDEO
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:34:13-38:29
+action#io.rong.intent.action.voip.SINGLEVIDEO
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:35:17-81
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:35:25-78
+intent-filter#android.intent.category.DEFAULT+io.rong.intent.action.voip.SINGLEAUDIO
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:39:13-43:29
+action#io.rong.intent.action.voip.SINGLEAUDIO
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:40:25-78
+activity#io.rong.callkit.MultiAudioCallActivity
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:45:9-55:20
+	android:screenOrientation
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:48:13-49
+	android:launchMode
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:47:13-43
+	android:windowSoftInputMode
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:49:13-67
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:46:13-66
+intent-filter#android.intent.category.DEFAULT+io.rong.intent.action.voip.MULTIAUDIO
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:50:13-54:29
+action#io.rong.intent.action.voip.MULTIAUDIO
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:51:17-80
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:51:25-77
+activity#io.rong.callkit.CallSelectMemberActivity
+ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:56:9-77
+	android:name
+		ADDED from [DEMO5:CallKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\CallKit\unspecified\AndroidManifest.xml:56:19-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:31:22-73
+activity#io.rong.imkit.plugin.location.AMapLocationActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:34:9-87
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:34:19-84
+activity#io.rong.imkit.plugin.location.AMapPreviewActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:35:9-86
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:35:19-83
+activity#io.rong.imkit.plugin.location.AMapRealTimeActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:36:9-87
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:36:19-84
+activity#io.rong.imkit.plugin.image.PictureSelectorActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:38:13-78
+activity#io.rong.imkit.plugin.image.PicturePreviewActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:41:13-77
+activity#io.rong.imkit.tools.RongWebviewActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:45:9-53:20
+	android:screenOrientation
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:46:13-67
+intent-filter#android.intent.category.DEFAULT+io.rong.imkit.intent.action.webview
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:48:13-52:29
+action#io.rong.imkit.intent.action.webview
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:49:25-75
+activity#io.rong.imkit.activity.PicturePagerActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:58:9-66:20
+	android:theme
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:60:13-71
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:59:13-71
+intent-filter#android.intent.category.DEFAULT+io.rong.imkit.intent.action.picturepagerview
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:61:13-65:29
+action#io.rong.imkit.intent.action.picturepagerview
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:62:17-87
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:62:25-84
+activity#io.rong.imkit.mention.MemberMentionedActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:67:9-70:67
+	android:windowSoftInputMode
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:70:13-64
+	android:configChanges
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:69:13-63
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:68:13-73
+activity#io.rong.imkit.activity.FileManagerActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:71:9-79
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:71:19-76
+activity#io.rong.imkit.activity.FileListActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:72:9-76
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:72:19-73
+activity#io.rong.imkit.activity.FilePreviewActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:73:9-79:20
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:73:19-76
+intent-filter#android.intent.category.DEFAULT+io.rong.imkit.intent.action.openfile
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:74:13-78:29
+action#io.rong.imkit.intent.action.openfile
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:75:17-79
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:75:25-76
+activity#io.rong.imkit.activity.CSLeaveMessageActivity
+ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:80:9-83:52
+	android:screenOrientation
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:83:13-49
+	android:configChanges
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:82:13-63
+	android:name
+		ADDED from [DEMO5:IMKit:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMKit\unspecified\AndroidManifest.xml:81:13-73
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\DEMO\DEMO5\seal\src\main\AndroidManifest.xml:2:1-512:12 reason: io.rong.imkit requested WRITE_EXTERNAL_STORAGE
+meta-data#RONG_CLOUD_APP_KEY
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:27:9-29:45
+	android:value
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:29:13-42
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:28:13-46
+service#io.rong.push.core.PushRegistrationService
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:50:9-53:19
+	android:exported
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:51:13-69
+service#io.rong.push.core.MessageHandleService
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:56:9-59:19
+	android:exported
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:57:13-66
+service#io.rong.push.PushService
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:62:9-66:19
+	android:process
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:65:13-43
+	android:exported
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:64:13-36
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:63:13-52
+receiver#io.rong.push.PushReceiver
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:69:9-89:20
+	android:process
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:71:13-43
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:70:13-53
+intent-filter#io.rong.push.intent.action.HEART_BEAT
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:73:13-75:29
+action#io.rong.push.intent.action.HEART_BEAT
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:74:17-80
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:74:25-77
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:77:13-79:29
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:81:13-83:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:82:17-79
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:82:25-76
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.USER_PRESENT
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:84:13-88:29
+action#android.intent.action.USER_PRESENT
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:85:25-74
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:86:17-87
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:86:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:87:17-90
+	android:name
+		ADDED from [DEMO5:IMLib:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\IMLib\unspecified\AndroidManifest.xml:87:25-87
+activity#com.jrmf360.rylib.rp.ui.AddCardActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:20:9-76
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:20:19-73
+activity#com.jrmf360.rylib.rp.ui.AddCardFirsstActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:21:9-23:52
+	android:screenOrientation
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:22:13-73
+activity#com.jrmf360.rylib.rp.ui.AddCardSecondActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:24:9-82
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:24:19-79
+activity#com.jrmf360.rylib.rp.ui.BankCardListActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:25:9-81
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:25:19-78
+activity#com.jrmf360.rylib.rp.ui.EnBrowserActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:26:9-78
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:26:19-75
+activity#com.jrmf360.rylib.rp.ui.PayTypeActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:27:9-30:58
+	android:windowSoftInputMode
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:30:13-55
+	android:theme
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:28:13-67
+activity#com.jrmf360.rylib.rp.ui.RealNameActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:31:9-77
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:31:19-74
+activity#com.jrmf360.rylib.rp.ui.ResetPswdActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:32:9-78
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:32:19-75
+activity#com.jrmf360.rylib.rp.ui.SendGroupEnvelopesActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:33:9-87
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:33:19-84
+activity#com.jrmf360.rylib.rp.ui.SendSingleEnvelopesActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:34:9-88
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:34:19-85
+activity#com.jrmf360.rylib.rp.ui.SettingPswdActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:35:9-80
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:35:19-77
+activity#com.jrmf360.rylib.rp.ui.RpDetailActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:36:9-77
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:36:19-74
+activity#com.jrmf360.rylib.rp.ui.MyRpActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:37:9-73
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:37:19-70
+activity#com.jrmf360.rylib.rp.ui.FindPwdByInfoActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:38:9-82
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:38:19-79
+activity#com.jrmf360.rylib.wallet.ui.MyWalletActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:41:9-81
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:41:19-78
+activity#com.jrmf360.rylib.wallet.ui.AccountInfoActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:42:9-84
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:42:19-81
+activity#com.jrmf360.rylib.wallet.ui.TradeHistoryActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:43:9-85
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:43:19-82
+activity#com.jrmf360.rylib.wallet.ui.SecureSettingActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:44:9-86
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:44:19-83
+activity#com.jrmf360.rylib.wallet.ui.SetPayPwdActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:45:9-82
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:45:19-79
+activity#com.jrmf360.rylib.wallet.ui.IdentityAuthenActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:46:9-87
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:46:19-84
+activity#com.jrmf360.rylib.wallet.ui.UpdatePwdActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:47:9-82
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:47:19-79
+activity#com.jrmf360.rylib.wallet.ui.GetPwdActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:48:9-79
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:48:19-76
+activity#com.jrmf360.rylib.wallet.ui.SupportBankCardActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:49:9-88
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:49:19-85
+activity#com.jrmf360.rylib.wallet.ui.BankSettingActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:50:9-84
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:50:19-81
+activity#com.jrmf360.rylib.wallet.ui.AddCardSecondActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:51:9-86
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:51:19-83
+activity#com.jrmf360.rylib.wallet.ui.AddCardFirstActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:52:9-85
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:52:19-82
+activity#com.jrmf360.rylib.wallet.ui.RechargeActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:53:9-81
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:53:19-78
+activity#com.jrmf360.rylib.wallet.ui.GetDepositActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:54:9-83
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:54:19-80
+activity#com.jrmf360.rylib.wallet.ui.PwdCheckActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:55:9-81
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:55:19-78
+activity#com.jrmf360.rylib.wallet.ui.MyRpActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:56:9-77
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:56:19-74
+activity#com.jrmf360.rylib.wallet.ui.SelectSubBankActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:57:9-86
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:57:19-83
+activity#com.jrmf360.rylib.wallet.ui.WebViewActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:58:9-80
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:58:19-77
+activity#com.jrmf360.rylib.wallet.ui.TradeDetailActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:59:9-84
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:59:19-81
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:65:9-71:20
+	android:screenOrientation
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:69:13-47
+	android:exported
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:68:13-37
+	android:windowSoftInputMode
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:70:13-67
+	android:configChanges
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:67:13-85
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:66:13-60
+activity#com.alipay.sdk.auth.AuthActivity
+ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:72:9-77:20
+	android:screenOrientation
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:76:13-47
+	android:exported
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:75:13-37
+	android:configChanges
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:74:13-74
+	android:name
+		ADDED from [DEMO5:RedPacket:unspecified] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\DEMO5\RedPacket\unspecified\AndroidManifest.xml:73:13-60
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\AndroidManifest.xml:26:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:21:22-79
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:42:11-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:24:8-31
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] E:\DEMO\DEMO5\seal\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:22:13-58

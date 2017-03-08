@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\raw\\jrmf360.crt",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\RedPacket\\unspecified\\res\\raw\\jrmf360.crt"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\raw\\voip_outgoing_ring.mp3",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\CallKit\\unspecified\\res\\raw\\voip_outgoing_ring.mp3"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\raw\\bqmm_sticker_loading.gif",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\DEMO5\\Sticker\\unspecified\\res\\raw\\bqmm_sticker_loading.gif"
+    }
+]

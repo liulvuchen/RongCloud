@@ -1,0 +1,750 @@
+[
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_customer_normal.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_customer_normal.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_on.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xhdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_toast_bg.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_toast_bg.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\places_ic_clear.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ac_back_icon.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ac_back_icon.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_customer.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_customer.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popwindow_bg.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\popwindow_bg.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seal_app_logo.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\seal_app_logo.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ac_title_search_icon.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ac_title_search_icon.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_2.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\icon_2.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\real_time_location_exit.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\real_time_location_exit.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_code.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ic_code.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_location.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\btn_location.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_chat_hover.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\tab_chat_hover.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_friend_btn_hover.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\add_friend_btn_hover.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blacklist_icon.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\blacklist_icon.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_aaaaaa.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\bg_aaaaaa.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_mono_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contact_btn_video.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\contact_btn_video.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_tall_off_client.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_ic_message_block.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_ic_message_block.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\about_seal.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\about_seal.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_3.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\icon_3.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ac_search_loading.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ac_search_loading.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_clear_pressed_write.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\search_clear_pressed_write.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ios_thumb.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ios_thumb.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_found_hover.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\tab_found_hover.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_radio_button_on.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_radio_button_on.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_me.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\tab_me.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_password.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contact_btn_chat_hover.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\contact_btn_chat_hover.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pop_chat.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\pop_chat.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\powered_by_google_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_0_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\notification_small_icon.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\notification_small_icon.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_radio_button_off.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_radio_button_off.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic_btn_unselected.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\pic_btn_unselected.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rc_rt_location_bar.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\rc_rt_location_bar.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_activtiy_add_pressed.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\main_activtiy_add_pressed.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ac_search_blue_icon.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ac_search_blue_icon.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seal_logo_icon.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\seal_logo_icon.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_off_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mine_service.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\mine_service.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rc_rt_location_arrow.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\rc_rt_location_arrow.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_contacts_hover.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\tab_contacts_hover.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic_btn_selected.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\pic_btn_selected.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_1_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_small_off_client.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rc_rt_loc_myself.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\rc_rt_loc_myself.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_chat.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\tab_chat.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contact_btn_video_hover.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\contact_btn_video_hover.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon1_menu.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\icon1_menu.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_2_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_1.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\icon_1.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_4.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\icon_4.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_1.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xhdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_bg.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_bg.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_found.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\tab_found.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_play.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ac_search_cancel_icon.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ac_search_cancel_icon.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mine_about.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\mine_about.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_0.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xhdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_medium_off_client.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_standard_off_client.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_contacts.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\tab_contacts.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_customer_press.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_customer_press.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_chatroom.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\default_chatroom.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\places_ic_search.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_usecarnow_position_succeed.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\icon_usecarnow_position_succeed.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rc_read_receipt_down_arrow.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\rc_read_receipt_down_arrow.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pop_add.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\pop_add.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ac_et_search_icon.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ac_et_search_icon.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_me_hover.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\tab_me_hover.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mine_set.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\mine_set.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_ffffff.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\bg_ffffff.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rc_rt_loc_other.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\rc_rt_loc_other.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_off_mono_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\powered_by_google_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pop_group.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\pop_group.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_activtiy_add_normal.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\main_activtiy_add_normal.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_2.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xhdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_ic_add.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_ic_add.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_address_new_friend.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_address_new_friend.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\a_5.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\a_5.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_phone.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\real_time_location_hide.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\real_time_location_hide.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contact_more.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\contact_more.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon2_menu.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\icon2_menu.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_servicebrand_contact.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\default_servicebrand_contact.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_friend_btn.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\add_friend_btn.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contact_btn_chat.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\contact_btn_chat.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_location_now.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\img_location_now.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contact_more_hover.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\contact_more_hover.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_disabled_light.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_fmessage.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\default_fmessage.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sealtalk_search.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\sealtalk_search.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_pause.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rc_read_receipt_up_arrow.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\rc_read_receipt_up_arrow.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seal_logo.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\seal_logo.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\schedule_end_icon.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\schedule_end_icon.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting_dark.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_default_portrait.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_default_portrait.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\de_actionbar_back.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\src\\main\\res\\drawable-xhdpi\\de_actionbar_back.png"
+    },
+    {
+        "merged": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\DEMO\\DEMO5\\seal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    }
+]

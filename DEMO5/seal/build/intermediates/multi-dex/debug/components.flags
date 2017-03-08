@@ -1,0 +1,590 @@
+-injars 'E:\DEMO\DEMO5\seal\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'E:\DEMO\DEMO5\seal\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Administrator\AppData\Local\Android\Sdk\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'E:\DEMO\DEMO5\seal\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class cn.rongcloud.im.App {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class cn.rongcloud.im.ui.activity.LoginActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.MainActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.GroupListActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.PrivateChatDetailActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.RegisterActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.MyAccountActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.NewMessageRemindActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.DisturbActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.MessageDisturbActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.PrivacyActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.AboutRongCloudActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.UpdateLogActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.FunctionIntroducedActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.RongWebActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.BlackListActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SearchFriendActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.NewFriendListActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.TotalGroupMemberActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.PublicServiceActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.PublicServiceSearchActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SelectFriendsActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.CreateGroupActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.GroupDetailActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.ReadReceiptDetailActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.DiscussionDetailActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.ForgetPasswordActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.GroupNoticeActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.PublicServiceInfoActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.DoubleChatRoomActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.ConversationActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SubConversationListActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.ConversationListActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SealSearchActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SealSearchMoreFriendsActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SealSearchMoreGroupActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SealSearchMoreChattingRecordsActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SealSearchChattingDetailActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.UpdateNameActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.UpdatePasswordActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.AccountSettingActivity {
+    <init>();
+}
+
+-keep class io.rong.imlib.ipc.RongService {
+    <init>();
+}
+
+-keep class io.rong.imlib.ReConnectService {
+    <init>();
+}
+
+-keep class io.rong.imlib.ConnectChangeReceiver {
+    <init>();
+}
+
+-keep class io.rong.imlib.HeartbeatReceiver {
+    <init>();
+}
+
+-keep class io.rong.imkit.widget.provider.TakingPicturesActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.server.UpdateService {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.UserDetailActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SharedReceiverActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.SplashActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.ui.activity.NoteInformationActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.im.SealNotificationReceiver {
+    <init>();
+}
+
+-keep class com.xiaomi.push.service.XMPushService {
+    <init>();
+}
+
+-keep class com.xiaomi.mipush.sdk.PushMessageHandler {
+    <init>();
+}
+
+-keep class com.xiaomi.mipush.sdk.MessageHandleService {
+    <init>();
+}
+
+-keep class com.xiaomi.push.service.XMJobService {
+    <init>();
+}
+
+-keep class com.xiaomi.push.service.receivers.NetworkStatusReceiver {
+    <init>();
+}
+
+-keep class com.xiaomi.push.service.receivers.PingReceiver {
+    <init>();
+}
+
+-keep class io.rong.push.platform.MiMessageReceiver {
+    <init>();
+}
+
+-keep class com.huawei.android.pushagent.PushEventReceiver {
+    <init>();
+}
+
+-keep class com.huawei.android.pushagent.PushBootReceiver {
+    <init>();
+}
+
+-keep class io.rong.push.platform.HWReceiver {
+    <init>();
+}
+
+-keep class com.huawei.android.pushagent.PushService {
+    <init>();
+}
+
+-keep class com.google.android.gms.gcm.GcmReceiver {
+    <init>();
+}
+
+-keep class io.rong.push.platform.RongGcmListenerService {
+    <init>();
+}
+
+-keep class io.rong.push.platform.RongGCMInstanceIDListenerService {
+    <init>();
+}
+
+-keep class android.support.v4.content.FileProvider {
+    <init>();
+}
+
+-keep class cn.rongcloud.contactcard.activities.ContactListActivity {
+    <init>();
+}
+
+-keep class cn.rongcloud.contactcard.activities.ContactDetailActivity {
+    <init>();
+}
+
+-keep class com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiPackageList {
+    <init>();
+}
+
+-keep class com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiPackageDetail {
+    <init>();
+}
+
+-keep class com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiPackageSetting {
+    <init>();
+}
+
+-keep class com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiDetail {
+    <init>();
+}
+
+-keep class com.melink.bqmmplugin.rc.bqmmsdk.ui.store.ServiceDeclaration {
+    <init>();
+}
+
+-keep class com.melink.bqmmplugin.rc.bqmmsdk.ui.store.EmojiPackageSort {
+    <init>();
+}
+
+-keep class io.rong.callkit.MultiVideoCallActivity {
+    <init>();
+}
+
+-keep class io.rong.callkit.SingleCallActivity {
+    <init>();
+}
+
+-keep class io.rong.callkit.MultiAudioCallActivity {
+    <init>();
+}
+
+-keep class io.rong.callkit.CallSelectMemberActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.plugin.location.AMapLocationActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.plugin.location.AMapPreviewActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.plugin.location.AMapRealTimeActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.plugin.image.PictureSelectorActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.plugin.image.PicturePreviewActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.tools.RongWebviewActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.activity.PicturePagerActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.mention.MemberMentionedActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.activity.FileManagerActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.activity.FileListActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.activity.FilePreviewActivity {
+    <init>();
+}
+
+-keep class io.rong.imkit.activity.CSLeaveMessageActivity {
+    <init>();
+}
+
+-keep class io.rong.push.core.PushRegistrationService {
+    <init>();
+}
+
+-keep class io.rong.push.core.MessageHandleService {
+    <init>();
+}
+
+-keep class io.rong.push.PushService {
+    <init>();
+}
+
+-keep class io.rong.push.PushReceiver {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.AddCardActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.AddCardFirsstActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.AddCardSecondActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.BankCardListActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.EnBrowserActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.PayTypeActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.RealNameActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.ResetPswdActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.SendGroupEnvelopesActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.SendSingleEnvelopesActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.SettingPswdActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.RpDetailActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.MyRpActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.rp.ui.FindPwdByInfoActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.MyWalletActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.AccountInfoActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.TradeHistoryActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.SecureSettingActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.SetPayPwdActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.IdentityAuthenActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.UpdatePwdActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.GetPwdActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.SupportBankCardActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.BankSettingActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.AddCardSecondActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.AddCardFirstActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.RechargeActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.GetDepositActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.PwdCheckActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.MyRpActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.SelectSubBankActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.WebViewActivity {
+    <init>();
+}
+
+-keep class com.jrmf360.rylib.wallet.ui.TradeDetailActivity {
+    <init>();
+}
+
+-keep class com.alipay.sdk.app.H5PayActivity {
+    <init>();
+}
+
+-keep class com.alipay.sdk.auth.AuthActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}
